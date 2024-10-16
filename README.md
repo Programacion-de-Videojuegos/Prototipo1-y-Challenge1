@@ -2,14 +2,7 @@
 <p align="center">
     <img src="https://img-new.cgtrader.com/items/1943996/a0da468fb5/large/rpg-poly-pack-slavic-town-3d-model-low-poly-fbx-unitypackage-prefab-pdf.jpg" alt="Logo" width=1200 height=300>
 
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
+ 
 
 
 ## Contenido
@@ -36,12 +29,10 @@
 
 * Lección 1
   * > Prototipo 1
-  * >  <a href="https://reponame/issues/new?template=bug.md">Prototipo 1</a>
-  * > Desafío
-  * > Prueba
-* Lección 2
-  * > Prototipo 2
-  * > 
+  * >  <a href="https://drive.google.com/file/d/1G16gx5zGVRoNFt12DGSejeZ8vLrx-q_d/view?usp=sharing">Prototipo 1</a>
+* Challenge 1
+  * > Challenge 1
+  * >  <a href="https://drive.google.com/file/d/1La3Yo6aSJ06_VvkqcEj4NFByvqZKBtj2/view?usp=sharing">Challenge 1</a>
   * > Desafío
   * > Prueba
 * Lección 3
