@@ -33,20 +33,14 @@
 * Challenge 1
   * > Challenge 1
   * >  <a href="https://drive.google.com/file/d/1La3Yo6aSJ06_VvkqcEj4NFByvqZKBtj2/view?usp=sharing">Challenge 1</a>
-  * > Desafío
-  * > Prueba
-* Lección 3
+* Prototipo 2
+  * > Prototipo 2
+  * >  <a href="https://drive.google.com/file/d/1xdjKOOSVZVbA6OqSUKv3NKraILN3tP9V/view?usp=sharing">Prototipo 2</a>
+* Challenge 2
+  * > Challenge 2
+  * > <a href="https://drive.google.com/file/d/1Ha77p1cfh0QyfKYjXbgXGD3az_cRSblt/view?usp=sharing">Challenge 2</a>
+* Prototipo 3
   * > Prototipo 3
-  * > PDF
-  * > Desafío
-  * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
