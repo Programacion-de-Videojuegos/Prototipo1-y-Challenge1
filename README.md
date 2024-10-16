@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://invogames.s3.us-east-2.amazonaws.com/download_2_88ea5def3d.jpeg" alt="Logo" width=1200 height=300>
+    <img src="https://img-new.cgtrader.com/items/1943996/a0da468fb5/large/rpg-poly-pack-slavic-town-3d-model-low-poly-fbx-unitypackage-prefab-pdf.jpg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
