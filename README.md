@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://www.unrealengine.com/marketplace/en-US/product/3d-low-poly-nature" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
@@ -35,18 +35,18 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > Laboratorio
+  * > Prototipo 1
+  * >  <a href="https://reponame/issues/new?template=bug.md">Prototipo 1</a>
   * > Desafío
   * > Prueba
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
+  * > Prototipo 2
+  * > 
   * > Desafío
   * > Prueba
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
+  * > Prototipo 3
+  * > PDF
   * > Desafío
   * > Prueba
 * Lección 4
@@ -66,7 +66,7 @@
 ![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+Oliver Zaid Vázquez Silva
 
 ## Copyright
 Derechos Reservados 2022
