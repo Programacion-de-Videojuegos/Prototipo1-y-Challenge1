@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.unrealengine.com/marketplace/en-US/product/3d-low-poly-nature" alt="Logo" width=1200 height=300>
+    <img src="https://invogames.s3.us-east-2.amazonaws.com/download_2_88ea5def3d.jpeg" alt="Logo" width=1200 height=300>
 
   <p align="center">
     Short description
