@@ -50,8 +50,8 @@
   * > <a href="https://drive.google.com/file/d/1Ha77p1cfh0QyfKYjXbgXGD3az_cRSblt/view?usp=sharing">Challenge 2</a>
 * Prototipo 3
   * > Prototipo 3
-  * > Laboratorio
-  * > Desafío
+  * > <a href="https://drive.google.com/file/d/1bfbBkRcDChw6jkOELeo5IwN39A3m3j9Z/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1y6HZr8y7sF-ep_6D4vUwLsKu9tcjMKHm/view?usp=sharing">Prototipo 3</a>
   * > Prueba
 * VideoJuego
 
