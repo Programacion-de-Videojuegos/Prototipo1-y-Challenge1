@@ -52,7 +52,10 @@
   * > Prototipo 3
   * > <a href="https://drive.google.com/file/d/1bfbBkRcDChw6jkOELeo5IwN39A3m3j9Z/view?usp=sharing">PDF</a>
   * > <a href="https://drive.google.com/file/d/1y6HZr8y7sF-ep_6D4vUwLsKu9tcjMKHm/view?usp=sharing">Prototipo 3</a>
-  * > Prueba
+* Prototipo 4
+  * > Prototipo 4
+  * > <a href="https://drive.google.com/file/d/1GyvSLPSlHyozdTc91afynAZXZoUzXH7N/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1cDT__zynep3vyv_JWN6OoMg4Lvd_D1bk/view?usp=sharing">Prototipo 4</a>
 * VideoJuego
 
 ## Planificación
