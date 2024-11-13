@@ -54,7 +54,7 @@
   * > <a href="https://drive.google.com/file/d/1y6HZr8y7sF-ep_6D4vUwLsKu9tcjMKHm/view?usp=sharing">Prototipo 3</a>
 * Prototipo 4
   * > Prototipo 4
-  * > <a href="https://drive.google.com/file/d/1GyvSLPSlHyozdTc91afynAZXZoUzXH7N/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1XeaD4pYRfMnlLzzI-WGVcAvEaSddnHIM/view?usp=sharing">PDF</a>
   * > <a href="https://drive.google.com/file/d/1cDT__zynep3vyv_JWN6OoMg4Lvd_D1bk/view?usp=sharing">Prototipo 4</a>
 * VideoJuego
 
