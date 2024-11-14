@@ -52,14 +52,26 @@
   * > Prototipo 3
   * > <a href="https://drive.google.com/file/d/1DQaeE5QZImSTi75K1bLcpofHLWFLAIIR/view?usp=sharing">PDF</a>
   * > <a href="https://drive.google.com/file/d/1y6HZr8y7sF-ep_6D4vUwLsKu9tcjMKHm/view?usp=sharing">Prototipo 3</a>
+  * Challenge 3
+  * > Challenge 3
+  * > <a href="https://drive.google.com/file/d/1e5BsrupK1JDfVhQJ-nT7GLZD9lnTTPxB/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1eqg0bq0W5EmJNQ6GQ44TcKA6AVoGmzZP/view?usp=sharing">Challenge 3</a>
 * Prototipo 4
   * > Prototipo 4
   * > <a href="https://drive.google.com/file/d/1cHPpfDpVMt3WtA9Wo6hgBxTbFYjOCgO_/view?usp=sharing">PDF</a>
   * > <a href="https://drive.google.com/file/d/1cDT__zynep3vyv_JWN6OoMg4Lvd_D1bk/view?usp=sharing">Prototipo 4</a>
+   * Challenge 4
+  * > Challenge 4
+  * > <a href="https://drive.google.com/file/d/1046IH7-s1iycyF22g8lei_6uhsmFcdTJ/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1xnYflo8J-QDg0_C8Cl_dt9OpA_Ys0Y4q/view?usp=sharing">Challenge 4</a>
   * Prototipo 5
   * > Prototipo 5
   * > <a href="https://drive.google.com/file/d/1_lI7V5Emz4YNPUKca7wlwIrr34cme2Xt/view?usp=sharing">PDF</a>
   * > <a href="https://drive.google.com/file/d/1l6CwrnT6oiiN8zK4idzkDwH3d3eqLSJX/view?usp=sharing">Prototipo 5</a>
+   * Challenge 5
+  * > Challenge 5
+  * > <a href="https://drive.google.com/file/d/1GRyZhYlyHoKgoTGFr9T_dJkhbzefRt0P/view?usp=sharing">PDF</a>
+  * > <a href="https://drive.google.com/file/d/1jqTKCzNKbIckqzdRz9tFwvDskRs0oluc/view?usp=sharing">Challenge 5</a>
 * VideoJuego
 
 ## Planificación
